@@ -23,7 +23,7 @@
 name       : d-amin
 status     : Student & Lifelong Learner
 currently  : Grinding algorithms & building cool stuff
-interests  : Systems Programming, Web Dev, Automation
+interests  : Systems Programming, Security, Automation
 goal       : Ship. Break. Fix. Repeat.
 ```
 
