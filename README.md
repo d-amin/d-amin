@@ -13,7 +13,7 @@
 ---
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="hacker coding gif"/>
+  <img src="https://media1.tenor.com/m/9Pn19IB5kYcAAAAC/hacking-computer-screen.gif" width="480" alt="matrix rain gif"/>
 </div>
 
 ```bash
@@ -25,8 +25,8 @@
 name       : d-amin
 status     : Student & Lifelong Learner
 currently  : Grinding algorithms & building cool stuff
-interests  : Systems Programming, Security, Automation
-goal       : Ship. Break. Fix. Repeat.
+interests  : Systems Programming, Security, Automation, Hardware
+goals       : still figuring it out — but shipping along the way
 ```
 
 ```bash
@@ -81,6 +81,19 @@ drwxr-xr-x  Linux        [████████████░░] daily driv
 <div align="center">
 
 ![snake gif](https://github.com/d-amin/d-amin/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-amine-mechri-0429261a8/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/d-amin)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Damin05/)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-%23F58025.svg?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/32501418/damin)
 
 </div>
 
