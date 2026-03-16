@@ -1,16 +1,65 @@
-## Hi there 👋
+## Hi there 👋 I'm Mohamed Amine Mechri 
 
-<!--
-**d-amin/d-amin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering Student at ESPRIT
+🔐 Interested in Cybersecurity, Networking, and AI
+📍 Tunisia
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+* 💻 I enjoy building small technical tools
+* 🌐 Currently studying networking and systems
+* 🔐 Exploring cybersecurity and penetration testing
+* 📚 Learning machine learning fundamentals
+
+---
+
+## 🌐 Socials
+
+* LinkedIn: https://www.linkedin.com/in/mohamed-amine-mechri-0429261a8/
+* GitHub: https://github.com/d-amin
+* LeetCode: https://leetcode.com/u/Damin05/
+* Stack Overflow: https://stackoverflow.com/users/32501418/damin
+
+---
+
+## 🧠 Tech Stack
+
+**Languages**
+
+Python • C
+
+**Tools**
+
+Linux • Git
+
+**Areas**
+
+Networking • Cybersecurity • Machine Learning
+
+---
+
+## 📂 Featured Projects
+
+*(Projects will be added here soon)*
+
+---
+
+## 📚 Currently Learning
+
+* Networking fundamentals
+* Bash scripting
+* Penetration testing basics
+
+---
+
+## 🏆 Certifications
+
+*(Certifications will be added later)*
+
+---
+
+## 📊 GitHub Stats
+
+*(Stats will be added later)*
