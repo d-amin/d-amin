@@ -76,16 +76,6 @@ drwxr-xr-x  Linux        [████████████░░] daily driv
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![snake gif](https://github.com/d-amin/d-amin/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
